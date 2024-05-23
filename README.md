@@ -33,7 +33,7 @@ python ENC.py
 
 <p align="left">
 
-<img src='https://raw.githubusercontent.com/Alienrazor/SS/main/IMG_20240522_133941.JPG'/>
+<img src='https://raw.githubusercontent.com/Alienrazor/SS/main/IMG_20240523_164603.JPG'/>
   
   
 
